@@ -1,8 +1,0 @@
-PUT http://localhost:3001/api/blogs/8
-Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1sdXVrYWlAZ21haWwuY29tIiwiaWQiOjMsImlhdCI6MTc5NDMyNDM3MH0.CQZSDY66ZsWozLuk_nEJfZIhB0ZYVQ7rz-lPPlIM6zw
-//Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpQGdtYWlsLmNvbSIsImlkIjo0LCJpYXQiOjE3OTQzODk2NDd9.VQacNFQcDm0-xMkc7649_RBFzegQMKxKuYQi5a3Gvd0
-
-{
-  "likes": 2
-}
