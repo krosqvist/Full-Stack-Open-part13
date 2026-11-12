@@ -8,8 +8,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "dev": "node --watch index.js",
     "start:test": "TESTING=true node index.js",
-    "test": "TESTING=true node --test --test-concurrency=1 tests/api_ch3.test.js"
+    "test": "TESTING=true node --test --test-concurrency=1"
   },
   "dependencies": {
     "axios": "^1.21.1",
